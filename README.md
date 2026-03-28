@@ -93,12 +93,19 @@ Data was collected programmatically using web scraping techniques.
 
 ---
 
-## Project Management & Design
-This project also followed a structured approach:
-- Initial planning and workflow design (Miro)
-- Task organization and backlog tracking (JIRA)
+## Project Management & Workflow
 
-(*See images folder for reference screenshots*)
+To simulate a real-world project environment, this analysis followed a structured workflow:
+
+- **Planning & data flow design (Miro):**  
+  Defined the data pipeline, from data collection (web scraping) to transformation and analysis.
+
+- **Task management & backlog tracking (JIRA):**  
+  Organized tasks such as data collection, cleaning, transformation, and analysis into a structured workflow.
+
+These steps helped ensure a clear, organized, and scalable approach to the project.
+
+See the `images/` folder for workflow and backlog examples.
 
 ---
 
@@ -113,7 +120,7 @@ This project also followed a structured approach:
 ## Contact
 If you’d like to connect or discuss this project:
 
-🔗 LinkedIn: Ana Salsas
+🔗 LinkedIn: [Ana Salsas](https://www.linkedin.com/in/anasalsas/) 
 
 ---
 
