@@ -1,0 +1,6 @@
+# Ignore local outputs and virtual environment
+outputs/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
