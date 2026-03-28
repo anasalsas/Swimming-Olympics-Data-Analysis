@@ -1,9 +1,13 @@
 # 🏊 Swimming Olympics Data Analysis
 
 ## Project Overview
-This project analyzes Olympic swimming data by transforming **unstructured Wikipedia tables into a clean and structured dataset** using Python.
+This project analyzes Olympic swimming data by transforming unstructured Wikipedia tables into a clean and structured dataset using Python.
 
-The goal was to simulate a real-world data scenario where raw data is messy, inconsistent, and requires **web scraping, data cleaning, and transformation** before analysis.
+Although my primary focus is on energy and sustainability projects, this analysis demonstrates the **transferability of data skills across domains**, applying the same techniques used in energy datasets (data collection, cleaning, transformation, and analysis) to a different context.
+
+The goal was to simulate a real-world data scenario where raw data is messy, inconsistent, and requires web scraping, data cleaning, and transformation before analysis.
+
+This project also reflects my interest in applying data analysis to diverse domains and real-world scenarios.
 
 ---
 
