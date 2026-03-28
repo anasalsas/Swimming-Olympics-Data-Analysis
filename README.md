@@ -104,14 +104,15 @@ To simulate a real-world project environment, this analysis followed a structure
 - **Planning, data flow design and Brainstorming (Miro):**  
   Defined the data pipeline, from data collection (web scraping) to transformation and analysis.
 
-  ![Miro Brainstorming](images/ScreenShot_2025-11-26_Miro_Brainstorming.png)
+![Miro Brainstorming](Miro_Brainstorming.png)
 
 - **Task management & backlog tracking (JIRA):**  
   Organized tasks such as data collection, cleaning, transformation, and analysis into a structured workflow.
 
   #### Sprint Tasks & Kanban Board (JIRA)
-![JIRA Sprint Tasks](images/ScreenShot_2025-11-22_Tasks_Sprint1.png)
-![JIRA Kanban Board](images/ScreenShot_2025-11-25_KanbanBoard_sprint1.png)
+![JIRA Sprint Tasks](ScreenShot_2025-11-22_Tasks_Sprint1.png)
+![Kanban Board](Kanban_Board.png)
+
 
 These steps helped ensure a clear, organized, and scalable approach to the project.
 
