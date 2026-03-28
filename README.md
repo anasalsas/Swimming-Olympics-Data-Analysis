@@ -112,7 +112,7 @@ To simulate a real-world project environment, this analysis followed a structure
   
   ![JIRA Sprint Tasks](Images/Tasks_Sprint1.png)
   ![JIRA Sprint Tasks Part 2](Images/Tasks_Sprint1_part2.png)
-  ![Kanban Board](Images/KanbanBoard_sprint1.png)
+  ![Kanban Board](Images/KanbanBoard_Sprint1.png)
 
 - **Task management & backlog tracking (JIRA & Confluence):**  
   Tasks such as data collection, cleaning, transformation, and analysis were organized using JIRA and Confluence.  
