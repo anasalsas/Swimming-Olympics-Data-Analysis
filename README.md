@@ -90,3 +90,32 @@ Data was collected programmatically using web scraping techniques.
 - Data modeling and structuring
 - Data visualization (Plotly)
 - Analytical thinking
+
+---
+
+## Project Management & Design
+This project also followed a structured approach:
+- Initial planning and workflow design (Miro)
+- Task organization and backlog tracking (JIRA)
+
+(*See images folder for reference screenshots*)
+
+---
+
+## Future Improvements
+- Improve country detection using external reference datasets
+- Automate data validation rules
+- Expand analysis to include performance trends over time
+- Build an interactive dashboard (Power BI / Streamlit)
+
+---
+
+## Contact
+If you’d like to connect or discuss this project:
+
+🔗 LinkedIn: Ana Salsas
+
+---
+
+## Notes
+This project focuses on **learning and demonstrating data skills**, especially handling messy, real-world data scenarios.
