@@ -77,6 +77,12 @@ Data was collected programmatically using web scraping techniques.
 
 ---
 
+### 6. Outputs
+All generated files (Excel and CSV) are saved in the outputs/ folder.
+Each execution of the script creates files with a timestamp, ensuring that no previous version is overwritten.
+These files can be used for interactive dashboards in Power BI or Streamlit.
+---
+
 ## Key Insights
 - The **USA dominates Olympic swimming medal counts** across both genders
 - Data from Wikipedia contains **structural inconsistencies**, requiring strong cleaning logic
@@ -123,7 +129,7 @@ To simulate a real-world project environment, this analysis followed a structure
 - Improve country detection using external reference datasets
 - Automate data validation rules
 - Expand analysis to include performance trends over time
-- Build an interactive dashboard (Power BI / Streamlit)
+- Build an interactive dashboard (Power BI / Looker Studio / Streamlit)
 
 ---
 
