@@ -70,7 +70,7 @@ Data was collected programmatically using web scraping techniques.
 ---
 
 ### 5. Visualization
-- Interactive charts using Plotly:
+  - Interactive charts using Plotly:
   - Top countries by medal count
   - Medal distribution by gender
   - Country-level comparisons
@@ -78,9 +78,9 @@ Data was collected programmatically using web scraping techniques.
 ---
 
 ### 6. Outputs
-All generated files (Excel and CSV) are saved in the outputs/ folder.
-Each execution of the script creates files with a timestamp, ensuring that no previous version is overwritten.
-These files can be used for interactive dashboards in Power BI or Streamlit.
+- All generated files (Excel and CSV) are saved in the outputs/ folder.
+- Each execution of the script creates files with a timestamp, ensuring that no previous version is overwritten.
+- These files can be used for interactive dashboards in Power BI or Streamlit.
 ---
 
 ## Key Insights
